@@ -1,2 +1,2 @@
-# Block Dodger
-A game to dodge blocks
+# Curser
+A console game
